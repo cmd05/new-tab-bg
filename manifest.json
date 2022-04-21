@@ -1,0 +1,14 @@
+{
+    "icons": {
+	"16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png" 
+    },
+    "manifest_version": 3,
+    "name": "New Tab Background",
+    "version": "1.0.0",
+    "description": "Set a custom new tab background.",
+    "chrome_url_overrides": {
+        "newtab": "tab.html"
+    }
+}

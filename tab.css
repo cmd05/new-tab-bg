@@ -1,0 +1,27 @@
+body, html {
+    background: #1d1f2c;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    opacity: .78;
+}
+
+#clock {
+    user-select: none;
+    font-family: "Calibri";
+    position: fixed;
+    right: 0;
+    top: 0;
+    text-align: center;
+    padding: 20px;
+    padding-right: 40px;
+    font-size: 60px;
+    color: white;
+}
