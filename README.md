@@ -7,7 +7,9 @@ A simple extension to select a random custom background for a new tab in your br
 
 1. Clone the repository anywhere on your device
 
-```git clone git@github.com/cmd05/new-tab-bg```
+```
+git clone git@github.com/cmd05/new-tab-bg
+```
 
 2. Add your favourite images to `bg/` folder
 3. Open `chrome://extensions/` in your browser
